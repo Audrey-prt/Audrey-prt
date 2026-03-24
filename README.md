@@ -1,5 +1,3 @@
-# Hello 🐱
-
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=Bienvenue%20🐾&fontSize=40)
 
 ---
