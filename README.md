@@ -11,9 +11,3 @@
 > “Les chats sont comme le code : mystérieux, parfois imprévisibles, mais incroyablement satisfaisants quand tout fonctionne.” 🐾
 
 ---
-
-## 🐾 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=<ton pseudo>&show_icons=true&theme=dark)
-
----
